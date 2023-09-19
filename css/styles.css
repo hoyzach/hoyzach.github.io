@@ -577,7 +577,7 @@ progress {
   margin-right: 0.5rem;
 }
 
-.list-inline.dev-icons i {
+ul.dev-icons i {
   color: black;
 }
 
