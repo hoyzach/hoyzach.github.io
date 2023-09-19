@@ -5430,6 +5430,10 @@ textarea.form-control-lg {
   filter: grayscale(100%);
 }
 
+#filtered-image {
+  filter: invert(53%) sepia(12%) saturate(11%) hue-rotate(351deg) brightness(93%) contrast(81%);
+}
+
 .toast {
   width: 350px;
   max-width: 100%;
