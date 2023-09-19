@@ -577,6 +577,10 @@ progress {
   margin-right: 0.5rem;
 }
 
+.list-inline.dev-icons i {
+  color: black;
+}
+
 .initialism {
   font-size: 0.875em;
   text-transform: uppercase;
